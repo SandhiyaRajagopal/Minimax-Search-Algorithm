@@ -101,7 +101,7 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-```
+
 <h3>Program:</h3>
 
 ```python
